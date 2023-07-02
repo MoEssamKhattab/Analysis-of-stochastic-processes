@@ -18,14 +18,9 @@ The GUI should do the following:
 Test your GUI for the random processes $X(t)$ and $Y(t)$, where,
 1. $X(t)$ is defined as in the attached sample file.
 2. $Y(t)$ is defined as
-
 $$Y(t) = β sin(2πt),$$
-
-where $0 ≤ t ≤ 2, β∼N(0, 1)$
-3. $P(t)$ is a 10-bits Polar NRZ process,
-
+where $0 ≤ t ≤ 2, β∼N(0, 1)$ 
+3. $P(t)$ is a 10-bits Polar NRZ process, </br>
 with $A=5 volts, Tb = 2 seconds$, and initial time shift, $α ∼ U(0, Tb)$.
 
-4. $M(t)$ is a 10-bits Manchester code process,
-
-with $A = 5 volts, Tb = 2 seconds$, and initial time shift, $α ∼ U(0, Tb)$
+4. $M(t)$ is a 10-bits Manchester code process, \ with $A = 5 volts, Tb = 2 seconds$, and initial time shift, $α ∼ U(0, Tb)$
