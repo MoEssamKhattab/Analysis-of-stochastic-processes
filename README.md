@@ -1,5 +1,5 @@
 # Analysis of Stochastic Processes
-A GUI-based tool that allows the user to input any stochastic process, resulting in the ensemble and time statistics of such process.
+A GUI-based tool that allows the user to input any [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process), resulting in the ensemble and time statistics of such process.
 
 # Requirements
 ## GUI Description
